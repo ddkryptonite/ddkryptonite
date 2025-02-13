@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on various data analysis and machine learning projects touching our everyday lives.<br>Looking forward to diving deep into big data technologies.
+I'm currently working on various data engineering,  analysis and machine learning projects touching our everyday lives.<br>Looking forward to diving deep into big data technologies.
 
 
 # 💻 Tech Stack:
